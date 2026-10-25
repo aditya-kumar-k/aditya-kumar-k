@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Kumar%20K&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Blockchain%20Engineer%20%C2%B7%20Web3%20%C2%B7%20AI%20%C2%B7%20Linux&descAlignY=60&descSize=18" width="100%" alt="header"/>
+<img src="assets/matrix-header.svg" width="100%" alt="Aditya Kumar K - Blockchain Engineer · Web3 · AI · Linux"/>
 
 <a href="https://github.com/aditya-kumar-k"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+smart+contracts+in+Solidity;Shipping+Web3+backends;Crafting+Linux+apps+%26+KDE+widgets;Exploring+AI+x+Blockchain" alt="typing"/></a>
 
