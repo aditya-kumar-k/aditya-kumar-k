@@ -15,8 +15,18 @@ Hey, I'm Aditya, a Blockchain Engineer based in Hyderabad, India, specializing i
 
 <a href="https://github.com/aditya-kumar-k" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kumar-k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditya-kumar-k&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies/Achievements
+
+<div align="left">
+  <a href="https://github.com/aditya-kumar-k?achievement=pull-shark&tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="85" alt="Pull Shark" title="Pull Shark - Merged PRs" />
+  </a>
+  <a href="https://github.com/aditya-kumar-k?achievement=quickdraw&tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="85" alt="Quickdraw" title="Quickdraw - Closed issue/PR quickly" />
+  </a>
+</div>
+<br/>
+
 <br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
